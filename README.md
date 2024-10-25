@@ -13,4 +13,8 @@ Selenium es un controlador de navegador. Con ella se puede emular las acciones d
 3. Crear el archivo helper que es de apoyo para recuperar el código sms necesario para realizar pruebas.
 4. Crear dentro de UrbanRoutesPage los atributos de clase necesarios para ejecutar pruebas con sus respectivos localizadores únicos y crear los métodos también.
 5. Importar los archivos data, helpers al archivo UrbanRoutesPage.
-6. En el archivo main, escribir las pruebas necesarias para el procedimiento solicitado, utilizando los metodos del archivo UrbanRoutesPage. 
+6. En el archivo main, escribir las pruebas necesarias para el procedimiento solicitado, utilizando los metodos del archivo UrbanRoutesPage.
+
+## Comando para ejecutar el proyecto
+A continuación se muestra la forma para poder ejecutar las pruebas del proyecto. Todas las pruebas se encuetran en el archivo main.py.
+pytest/projects/qa-project-Urban-Routes-es/main.py
